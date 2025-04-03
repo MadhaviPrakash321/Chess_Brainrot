@@ -1,3 +1,5 @@
+GrandMaster Chess BOT challenge for BRAINROT 
+
 # Chess Bot: Principal Variation Search Engine
 
 This project implements a chess-playing engine that uses Principal Variation Search (PVS) with alpha-beta pruning, piece-square evaluation, and MVV-LVA move ordering for improved performance.
